@@ -1,0 +1,82 @@
+.red{
+    border-left-color: red !important;
+}
+
+.darkRed{
+	border-left-color: #8B0000 !important;
+}
+
+.orange{
+    border-left-color: orange !important;
+}
+
+.yellow{
+    border-left-color: yellow !important;
+}
+
+.green{
+    border-left-color: green !important;
+}
+
+.lime{
+    border-left-color: lime !important;
+}
+
+.blue{
+    border-left-color: blue !important;
+}
+
+.fuchsia{
+    border-left-color: fuchsia !important;
+}
+
+.darkCyan{
+	border-left-color:rgb(0,128,128) !important;
+}
+
+.purple{
+    border-left-color: purple !important;
+}
+
+.white{
+    border-left-color: white !important;
+}
+
+.maroon{
+    border-left-color: maroon !important;
+}
+
+.flag{
+    border-left-color: cyan !important;
+}
+
+.flag.card{
+    background:cyan !important;
+}
+
+.flag:not(.card){
+    margin-top:1.2rem;
+}
+
+.colorbar{
+    border-left: solid;
+    border-left-width: 5px;
+}
+
+.MuiCard-root {
+    flexGrow: 1;
+    margin-left: 240px;
+}
+
+.textgreen{
+	color:#009118
+}
+
+code {
+    background: #23241f;
+    color:#dfdfdf;
+    minWidth: 100%;
+    display: block;
+    border-radius: 5px;
+    padding: 8px 8px
+}
